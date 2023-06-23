@@ -11,10 +11,10 @@
   "typings": "./index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git@github.com:proyecto26/react-native-inappbrowser.git"
+    "url": "git@github.com:mosqueiro/react-native-inappbrowser.git"
   },
   "bugs": {
-    "url": "https://github.com/proyecto26/react-native-inappbrowser/issues"
+    "url": "https://github.com/mosqueiro/react-native-inappbrowser/issues"
   },
   "keywords": [
     "react-native",
@@ -35,8 +35,8 @@
     "CustomTabsIntent",
     "ChromeTabsManagerActivity"
   ],
-  "author": "Juan David Nicholls Cardona",
-  "homepage": "https://github.com/proyecto26/react-native-inappbrowser",
+  "author": "Erick Costa",
+  "homepage": "https://github.com/mosqueiro/react-native-inappbrowser",
   "license": "MIT",
   "peerDependencies": {
     "react-native": ">=0.56"
